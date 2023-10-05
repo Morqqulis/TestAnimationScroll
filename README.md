@@ -1,5 +1,6 @@
 # TestAnimationScroll
-[Visit site](https://morqqulis.github.io/TestAnimationScroll/)[^1]
-No Mobile Version[^2]
+[Visit site](https://morqqulis.github.io/TestAnimationScroll/)
+
+No Mobile Version[^1]
 
 ![Screenshot](/anim.png)

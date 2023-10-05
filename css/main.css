@@ -17,21 +17,21 @@
 	font-family: outfit-c;
 	src: url(../fonts/outfit-regular.woff2);
 }
-/* h1,
+h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
 	font-family: outfit-c;
-} */
-/* will-change */
-/* .content,
+} 
+/* /* will-change */
+.content,
 .hero,
 .main-header,
 .gallery > * {
 	will-change: transform;
-} */
+} 
 body {
 	background-image: url(../img/bg.jpg);
 	background-size: 50px;
@@ -46,20 +46,20 @@ body {
 	top: 8vh;
 	z-index: -1;
 }
-/* .main-header {
+.main-header {
 	height: 100vh;
-} */
+}
 .container {
 	padding: 0 7vw;
 }
-/* .main-title {
+.main-title {
 	font-size: calc(var(--index) * 8);
 	position: absolute;
 	width: min-content;
 	bottom: 12vh;
 	line-height: 0.9;
-} */
-/* .gallery {
+}
+ .gallery {
 	display: flex;
 	padding: calc(var(--index) * 8) 0;
 }
@@ -94,4 +94,4 @@ body {
 }
 .text-block__p {
 	line-height: 1.75;
-} */
+} 
